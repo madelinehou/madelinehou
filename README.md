@@ -1,4 +1,4 @@
-## Howdy, I'm Madeline - a full-stack software engineer.
+## Howdy, I'm Madeline - a software engineer.
 
 - 🔨 I’m developing smarter web apps
 - 👀 I’m exploring generative models, web usability and DevOps
